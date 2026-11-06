@@ -1,1 +1,4 @@
-print("HI, Shams")
+
+name=input("enter your name:")
+
+print("HI,", name)
